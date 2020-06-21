@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub Profiles</string>
+    <string name="error_fetch_profiles">Error Fetching Profiles</string>
+    <string name="no_internet_connection">Please check internet connection</string>
+    <string name="id">ID: </string>
+    <string name="node_id">Node ID:</string>
+    <string name="name">Name:</string>
+    <string name="full_name">Full Name:</string>
+    <string name="login_as">Login As:</string>
+    <string name="description">Description:</string>
+    <string name="github_profile_link">GitHub Profile Link:</string>
+    <string name="github_repo_link">GitHub Repo Link:</string>
+</resources>
